@@ -1,0 +1,17 @@
+﻿<Window x:Class="ObjectOrientedProgrammingCSharp.Events"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ObjectOrientedProgrammingCSharp"
+        mc:Ignorable="d"
+        Title="Events" Height="450" Width="800">
+    <Grid>
+        <Image Margin="13,11,10,12" Stretch="Fill" Source="/Events.png">
+            <Image.OpacityMask>
+                <ImageBrush ImageSource="/Events.png"/>
+            </Image.OpacityMask>
+        </Image>
+
+    </Grid>
+</Window>

@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Databases.png" />
+    <None Remove="Events.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Databases.png" />
+    <Resource Include="Events.png" />
+  </ItemGroup>
+
+</Project>
