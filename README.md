@@ -20,4 +20,4 @@ All images are custom or have a reference name
 ### MS Visual Studio.NET
 ![image](CSharp.jpg)
 
-
+Advanced details:  https://github.com/alpaddesai/DatabaseManagementDesign
