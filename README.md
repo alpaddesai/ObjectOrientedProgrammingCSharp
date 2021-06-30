@@ -23,7 +23,7 @@ All images are custom or have a reference name
 ![image](Java.jpg)
 
 ## Ethics and Integrity
-![image](EthicsandExcellence.png)
+![image](EthicsandExcellence.png.png)
 
 ## Interest
 ![image](image1.png)
