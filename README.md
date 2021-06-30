@@ -19,9 +19,6 @@ All images are custom or have a reference name
 ### MS Visual Studio.NET
 ![image](CSharp.jpg)
 
-## Object oriented programming
-![image](Java.jpg)
-
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
