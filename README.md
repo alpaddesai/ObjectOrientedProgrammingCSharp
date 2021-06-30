@@ -22,6 +22,9 @@ All images are custom or have a reference name
 ## Object oriented programming
 ![image](Java.jpg)
 
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
+
 ## Interest
 ![image](image1.png)
 
