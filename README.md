@@ -16,8 +16,12 @@ All images are custom or have a reference name
 ![image](EventsImage.png)
 
 ## Object oriented programming in C#
+
 ### MS Visual Studio.NET
 ![image](CSharp.jpg)
+
+## Java 
+![image](Java.jpg)
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
