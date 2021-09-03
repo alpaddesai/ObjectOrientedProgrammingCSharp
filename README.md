@@ -23,6 +23,9 @@ All images are custom or have a reference name
 ## Java 
 ![image](Java.jpg)
 
+## Algorithms
+![image](SimulationsPerformanceMetrics.jpg)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
