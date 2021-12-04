@@ -29,7 +29,4 @@ All images are custom or have a reference name
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
-## Interest
-![image](image1.png)
-
 Advanced details:  https://github.com/alpaddesai/DatabaseManagementDesign
