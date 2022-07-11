@@ -23,8 +23,6 @@ All images are custom or have a reference name
 ### MS Visual Studio.NET
 ![image](CSharp.jpg)
 
-## Java 
-![image](Java.jpg)
 
 ## Algorithms
 ![image](SimulationsPerformanceMetrics.jpg)
