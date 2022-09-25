@@ -29,4 +29,6 @@ All images are custom or have a reference name
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Advanced details:  https://github.com/alpaddesai/DatabaseManagementDesign and https://github.com/alpaddesai/IntroWebDevHealthCareProject
