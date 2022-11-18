@@ -26,6 +26,9 @@ All images are custom or have a reference name
 ## Algorithms and Programming
 ![image](SimulationsPerformanceMetrics.jpg)
 
+## Exam
+![image](CFAExam.jpg)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
