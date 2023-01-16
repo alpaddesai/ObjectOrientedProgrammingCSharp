@@ -31,4 +31,4 @@ All images are custom or have a reference name
 
 ![image](USCopyrightCertificate.png)
 
-Advanced details:  https://github.com/alpaddesai/DatabaseManagementDesign and https://github.com/alpaddesai/IntroWebDevHealthCareProject
+Advanced details:  https://github.com/alpaddesai/SoftwareEngineering
