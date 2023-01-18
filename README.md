@@ -2,8 +2,6 @@
 
 The project provides on overview on object oriented programming in C sharp
 
-Please click on the executable located in https://github.com/alpaddesai/ObjectOrientedProgrammingCSharp/releases for details.
-
 For details reference: https://github.com/alpaddesai/ATMRegressionTestSuite. Reference "How to program with Deitel C#"
 
 
