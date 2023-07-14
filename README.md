@@ -8,9 +8,6 @@ All images are custom or have a reference name
 ## Databases
 ![image](DatabasesImage.png)
 
-## Certifications
-![image](Oracle.jpg)
-
 ## Events 
 ![image](EventsImage.png)
 
