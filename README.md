@@ -6,7 +6,7 @@ The project provides on overview on object oriented programming in C sharp
 All images are custom or have a reference name
 
 ## Programming Skills
-![image](C#Programming.jpg.)
+![image](C#Programming.jpg)
 
 ## Events 
 ![image](EventsImage.png)
